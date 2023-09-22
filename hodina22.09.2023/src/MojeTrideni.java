@@ -6,7 +6,6 @@ public class MojeTrideni {
     private class (Clovek[] pole, int x, int y){
         Clovek clovek = pole[x];
         pole[x] =
-        pole[y] =
     }
 
     private boolean
