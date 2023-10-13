@@ -21,7 +21,7 @@ public class Desifrovani {
 
             char p3 = (char)j;
 
-            //System.out.println(i + " : " + j + " - " + p + " : " + p2);
+
             System.out.print(p3);
         }
     }
